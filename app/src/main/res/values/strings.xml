@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="label_header">Rise and Shine</string>
+    <string name="sub_header_placeholder">There is lot of things going on today. There is %s scheduled and first one is at %s</string>
+
+    <plurals name="todo_count">
+        <item quantity="one">%d todo</item>
+        <item quantity="other">%d todos</item>
+    </plurals>
+</resources>
